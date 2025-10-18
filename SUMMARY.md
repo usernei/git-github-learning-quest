@@ -29,7 +29,7 @@
 
 * [Conectando seu repositório local ao GitHub](nivel-5-integrando-com-github/conectando-seu-repositorio-local-ao-github.md)
 
-## Nível 6: Viajando no Tempo
+## Nível 6: Viajando no Tempo.
 
 * [Alterando a Mensagem de um Commit](nivel-6-viajando-no-tempo/alterando-a-mensagem-de-um-commit.md)
 * [Desfazendo um Commit](nivel-6-viajando-no-tempo/desfazendo-um-commit.md)
